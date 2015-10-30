@@ -26,7 +26,7 @@ char *g_din_prog = 0;
 int g_verbose = 0;
 
 void usage() {
-    printf("Usage: usbtool -p <port> -b <baudrate> -d <device_id> -l <lo_freq> -h <hi_freq> -s <step> -r -w <DIN> -v\n");
+    printf("Usage: uzgtool -p <port> -b <baudrate> -d <device_id> -l <lo_freq> -h <hi_freq> -s <step> -r -w <DIN> -v\n");
 }
 
 
